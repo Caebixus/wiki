@@ -1,0 +1,2 @@
+Když zakládám nový projekt a chci tam mít AbstractUser tak se mrkni na tutorial (https://www.udemy.com/course/django-admin/learn/lecture/23320878#overview)
+    v "hashing passwords" sekci je tam hezky popsané jak na to!
